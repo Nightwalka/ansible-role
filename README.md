@@ -1,7 +1,7 @@
-Role Name
+Dummy_Role
 =========
 
-A brief description of the role goes here.
+This is a dummy role 
 
 Requirements
 ------------
